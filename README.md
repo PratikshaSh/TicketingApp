@@ -3,4 +3,4 @@ an e-commerce web application using Microservices built with Nodejs, React, Dock
 
 
 
-<b> This project will get completed by December 2021 </b>
+<b> This project will get completed by JAN 2022 </b>
